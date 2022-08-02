@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadpocalypse)](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=tokyonight)
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadpocalypse&show_icons=true&theme=tokyonight&count_private=true)
+
+<br>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadpocalypse&langs_count=10)](https://github.com/saadpocalypse/github-readme-stats&theme=tokyonight)
+
+
